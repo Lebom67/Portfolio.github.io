@@ -1,0 +1,17 @@
+ul{
+list-style-type:none;
+overflow: hidden;
+}
+li a{
+display:inline-block;
+text-decoration:none;
+float: right;
+padding: 10px;
+text-align: center;
+color: black;
+}
+a:hover{
+ background: aqua;
+ text-decoration: underline;
+ font-weight: bold;
+}
